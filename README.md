@@ -1,7 +1,7 @@
 [![MasterHead](https://media.istockphoto.com/id/1349561701/video/4k-data-science-animated-tag-word-cloud-text-design-animation-seamless-loop.jpg?s=640x640&k=20&c=ynREPerZ-1ScYbVIFXq4eG5tq-mp343rAzwoQoRlhe0=)](https://github.com/ShreyashSable29/ShreyashSable29)
 <h1 align="center">Hi 👋, I'm Shreyash Sable</h1>
 <h3 align="center">A passionate Data Scientist from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://assets.datacamp.com/production/repositories/5666/datasets/62557716a414641e7eb67b99720b9b9320e43e60/ds.png">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftierheimseite.de%2Fanimated-gifs-carpenter-creative-cc-28414883&psig=AOvVaw3TLD8-Cod4rCc6A6s7zvp2&ust=1684817411980000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKCmpYyQiP8CFQAAAAAdAAAAABAI">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyashsable29&label=Profile%20views&color=0e75b6&style=flat" alt="shreyashsable29" /> </p>
 
